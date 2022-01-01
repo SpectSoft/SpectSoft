@@ -1,6 +1,7 @@
-Hi, I'm Spect, and this is my GitHub page, where you can find most of the stuff I write/fork! :trollface: :hehe:
+Hi, I'm Spect, and this is my GitHub page, where you can find most of the stuff I write/fork
 - Currently learning to understand programming languages as well
-- My main programming language is C+
+- My main programming language is C++
+- Mastering C++ Growtopia Private Server
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeszsoft&layout=compact" width="333" />
