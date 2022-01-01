@@ -1,4 +1,4 @@
-Hi, I'm Spect, and this is my GitHub page, where you can find most of the stuff I write! :trollface:
+Hi, I'm Spect, and this is my GitHub page, where you can find most of the stuff I write/fork! :trollface: :hehe:
 - Currently learning to understand programming languages as well
 - My main programming language is C+
 
