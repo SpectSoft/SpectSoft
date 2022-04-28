@@ -2,6 +2,9 @@ Hi, I'm Spect, and this is my GitHub page, where you can find most of the stuff 
 - Currently learning to understand programming languages as well
 - My main programming language is C++
 - Mastering C++ Growtopia Private Server
+<p>
+  <img src="https://discord.c99.nl/widget/theme-1/926814218601267201.png">
+</p>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
